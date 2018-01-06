@@ -1,0 +1,1 @@
+{"name":"imdb in class 81","repository":"https://github.com/bahil01/imdb_in_class_81","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
